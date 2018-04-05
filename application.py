@@ -114,7 +114,7 @@ welcome = """
   <div class="linksColumn"> 
     <h2>Video Tutorials</h2>
     <ul>
-    <li>YouTube: <a href="https://www.youtube.com/watch?v=lBu7Ov3Rt-M&feature=youtu.be">Run a Docker Container from the Docker Registry</a></li>
+    <li>YouTube: <a href="https://www.youtube.com/watch?v=lBu7Ov3Rt-M&feature=youtu.be">Run a Docker Container from the Docker</a></li>
     <li>YouTube: <a href="https://www.youtube.com/watch?v=pLw6MLqwmew&feature=youtu.be">Use Private Docker Repositories</a></li>
     </ul>
     <h2>Sample Apps</h2>
